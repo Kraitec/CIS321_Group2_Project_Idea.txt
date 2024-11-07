@@ -21,5 +21,7 @@ The current hotel reservation system is clunky, inefficient, and hard to navigat
  - Secure Payment System
  - Real-Time Availability
  - Booking Flexibility
+ - Secure database encryption
+ - Transport layer security
 ## Next to do:
  - Adopt Agile as a SDLC using Scrum framework.
